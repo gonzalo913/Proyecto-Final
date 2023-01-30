@@ -1,0 +1,48 @@
+body{
+    display: flex;
+}
+.contenedor{
+    border: 1px solid #ccc;
+    margin:0 auto;
+    width: 60%;
+    background: #fff;
+    padding: 10px;
+
+    
+}
+
+.principal{
+    background: #e1f5f7;
+    padding: 10px;
+    
+}
+
+.cabecera{
+    display: flex;
+}
+
+.nombre{
+    margin-left: 40px;
+
+    width: 100%;
+
+    font-family: 'Roboto', sans-serif;
+
+    
+}
+
+.titulo{
+    border: 1px solid #2f3c3d;
+    color: #2f3c3d;
+
+    font-family: 'Roboto', sans-serif;
+}
+.contenido{
+    order: 1px solid #2f3c3d;
+    
+
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
